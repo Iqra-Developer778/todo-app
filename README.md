@@ -92,6 +92,7 @@ In your Supabase project, create a `todos` table with the following columns:
 Iqra
 React Native & Flutter Developer
 
----
 
-⭐ If you found this project helpful, consider giving it a star on GitHub!\\\\\
+
+
+on GitHub!\\\\\
