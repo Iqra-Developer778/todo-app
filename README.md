@@ -88,11 +88,10 @@ In your Supabase project, create a `todos` table with the following columns:
 - [ ] Dark mode support
 
  👩‍💻 Author
-
 Iqra
+
 React Native & Flutter Developer
 
 
 
 
-on GitHub!\\\\\
