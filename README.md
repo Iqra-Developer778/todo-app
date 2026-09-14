@@ -90,11 +90,9 @@ In your Supabase project, create a `todos` table with the following columns:
 ScreenShot
 
 
- <img src="Login.jpeg" width="220"/>
-  <img src="Sign up.jpeg" width="220"/>
+ <img src="Login.jpeg" width="220"/> | <img src="Sign up.jpeg" width="220"/>
   
-   <img src="Account created.jpeg" width="220"/>
-    <img src="Todo Screen.jpeg" width="220"/>
+   <img src="Account created.jpeg" width="220"/> | <img src="Todo Screen.jpeg" width="220"/>
     
 
 
