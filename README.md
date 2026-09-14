@@ -88,9 +88,12 @@ In your Supabase project, create a `todos` table with the following columns:
 - [ ] Dark mode support
 
 ScreenShot
+
+
  <img src="Login.jpeg" width="220"/>
   <img src="Sign up.jpeg" width="220"/>
-   <img src="Account Created.jpeg" width="220"/>
+  
+   <img src="Account created.jpeg" width="220"/>
     <img src="Todo Screen.jpeg" width="220"/>
     
 
